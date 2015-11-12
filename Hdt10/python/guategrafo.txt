@@ -1,0 +1,6 @@
+Ciudad1 Ciudad2 1
+Ciudad2	Ciudad3	2
+Ciudad4	Ciudad5	3
+CIudad3	Ciudad4	1
+Ciudad1	Ciudad4	1
+Ciudad4 Ciudad2	1

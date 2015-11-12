@@ -1,0 +1,5 @@
+Canada Peten 89
+Chile Canada 89
+Brasil Chile 67
+Canada Brasil 25
+Canada Mexico 10
